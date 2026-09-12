@@ -2,8 +2,11 @@
 **Where2** is an AI-assisted collaborative travel planning platform designed to make planning, managing, and adapting a trip simpler for both solo and group travellers.
 
 **Team**: JOEL CHONG XUE JIAN, LIM LI WEN, LAU ZI YEE
+
 **Problem Statement**: Travel Planner 
+
 **Video Presentation**: 
+
 **Presentation Slides**: 
 
 ---
